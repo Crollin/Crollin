@@ -10,9 +10,9 @@
 ---
 ## Stack & compétences
 
-`WordPress` `WooCommerce` `PHP` `JavaScript` `HTML/CSS`  
-`Gutenberg` `ACF` `REST API` `SEO` `Performance`  
-`Hébergement` `Cloudflare` `UX / UI`
+- WordPress - WooCommerce - PHP - JavaScript - HTML/CSS 
+- Gutenberg - ACF - REST API - SEO - Performance  
+- Hébergement - Cloudflare - UX / UI
 ---
 
 ### Projets publics
@@ -22,8 +22,6 @@
 ---
 
 ### Me contacter
-
-Prêt à parler de votre projet ? Devis gratuit et sans engagement.
 
 - ✉️ [contact@creactiveweb.com](mailto:contact@creactiveweb.com)
 - 🔗 [creactiveweb.com](https://creactiveweb.com)
