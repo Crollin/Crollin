@@ -1,5 +1,3 @@
----
-
 ### À propos
 
 - 👀 Passionné WordPress (thèmes, plugins, WooCommerce, Gutenberg)
@@ -10,13 +8,11 @@
 - 🌐 Site : [creactiveweb.com](https://creactiveweb.com)
 
 ---
-
 ## Stack & compétences
 
 `WordPress` `WooCommerce` `PHP` `JavaScript` `HTML/CSS`  
 `Gutenberg` `ACF` `REST API` `SEO` `Performance`  
 `Hébergement` `Cloudflare` `UX / UI`
-
 ---
 
 ### Projets publics
