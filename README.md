@@ -27,6 +27,4 @@
 - 🔗 [creactiveweb.com](https://creactiveweb.com)
 
 ---
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crollin&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-</div>
+
